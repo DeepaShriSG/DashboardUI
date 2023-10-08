@@ -7,7 +7,7 @@ function Sidebar() {
                 <ul className="nav flex-column">
                     <div className='d-flex justify-content-between'>
                     <a className="logo navbar-brand col-sm-2 col-md-2 mr-0 mb-3" href="#">Guvi Sales</a>
-                    <button type="button" class="btn-close my-4 mx-2" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    <button type="button" class="btn-close my-4 mx-2 d-block d-sm-none d-md-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
                     
                     <li className="nav-item">
